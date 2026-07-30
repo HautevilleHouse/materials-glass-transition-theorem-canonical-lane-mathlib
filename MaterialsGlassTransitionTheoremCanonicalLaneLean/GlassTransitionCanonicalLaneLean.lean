@@ -1,0 +1,20 @@
+import canonicalLaneMathlib.AdmissibleClass
+import GlassTransitionAdmissibleClass
+import ConfigurationalEntropyBridge
+import RelaxationDynamicsGate
+import FragilityAngleBridge
+import IdealGlassDivergenceGate
+import GlassTransitionFinalTheorem
+import GlassTransitionFormalizationLayer
+
+namespace HautevilleHouse
+namespace MaterialsGlassTransitionTheoremCanonicalLaneLean
+
+def repositoryImportedAndChecked : Prop :=
+  True
+
+theorem all_modules_linked : repositoryImportedAndChecked := by
+  trivial
+
+end MaterialsGlassTransitionTheoremCanonicalLaneLean
+end HautevilleHouse
